@@ -6,7 +6,7 @@ const AboutJob = () => {
   return (
     <div className="md:p-3 py-2">
       <div className="grid md:grid-cols-4 grid-cols-2 gap-4">
-        <div className="">
+        <div className="space-y-1">
           <h3 className="text-gray-500">Skills Required</h3>
           <ul className="space-y-2">
             <li className="border p-1 flex items-center space-x-1 rounded-md w-max">
